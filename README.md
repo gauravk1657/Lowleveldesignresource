@@ -1,5 +1,15 @@
 # Lowleveldesignresource
 📃 day 1
+
+
+
+
+link of same pdf : https://merciful-socks-8ed.notion.site/LLD-1-OOPs-959e3475a3664ba88e95aac5192afe7a
+
+
+
+
+
 OOPS Concepts
 Inheritance
 The ability of acquiring all the properties and behaviors of the parent object by a child object is termed as inheritance. This is a unique feature in object-oriented programming languages which facilitates re-usability of the code of the parent class by the derived class. In JavaScript, extends keyword is used to serve the purpose of inheritance.
